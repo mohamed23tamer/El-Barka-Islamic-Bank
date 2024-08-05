@@ -1,0 +1,86 @@
+[
+  {
+    "type": "دولار",
+    "price": 48.63,
+    "country": "الولايات المتحدة الامريكية",
+    "photo": "image/USA.gif",
+    "category": "currency"
+  },
+  {
+    "type": "يورو",
+    "price": 53.08,
+    "country": "أوروبا",
+    "photo": "image/Europe.gif",
+    "category": "currency"
+  },
+  {
+    "type": "جنيه",
+    "price": 62.32,
+    "country": "أنجلترا",
+    "photo": "image/UK.gif",
+    "category": "currency"
+  },
+  {
+    "type": "ريال",
+    "price": 12.95,
+    "country": "المملكة السعودية",
+    "photo": "image/Saudi.gif",
+    "category": "currency"
+  },
+  {
+    "type": "درهم",
+    "price": 13.24,
+    "country": "الامارات العربية المتحدة",
+    "photo": "image/UAE.gif",
+    "category": "currency"
+  },
+  {
+    "type": "دهب 24",
+    "price": 3800,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "دهب 21",
+    "price": 3325,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "دهب 18",
+    "price": 2850,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "دهب 14",
+    "price": 2217,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "فضة 916",
+    "price": 21.53,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "فضة 875",
+    "price": 20.57,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "فضة 800",
+    "price": 18.81,
+    "country": "مصر",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  }
+]

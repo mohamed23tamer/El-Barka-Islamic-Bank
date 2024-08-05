@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Dollar",
+    "price": 48.63,
+    "country": "USA",
+    "photo": "image/USA.gif",
+    "category": "currency"
+  },
+  {
+    "type": "Euro",
+    "price": 53.08,
+    "country": "Europe",
+    "photo": "image/Europe.gif",
+    "category": "currency"
+  },
+  {
+    "type": "Pound",
+    "price": 62.32,
+    "country": "England",
+    "photo": "image/UK.gif",
+    "category": "currency"
+  },
+  {
+    "type": "Riyal",
+    "price": 12.95,
+    "country": "Saudi Arabia",
+    "photo": "image/Saudi.gif",
+    "category": "currency"
+  },
+  {
+    "type": "Dirham",
+    "price": 13.24,
+    "country": "UAE",
+    "photo": "image/UAE.gif",
+    "category": "currency"
+  },
+  {
+    "type": "Gold 24",
+    "price": 3800,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "Gold 21",
+    "price": 3325,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "Gold 18",
+    "price": 2850,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "Gold 14",
+    "price": 2217,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "silver 916",
+    "price": 21.53,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "silver 875",
+    "price": 20.57,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  },
+  {
+    "type": "silver 800",
+    "price": 18.81,
+    "country": "Egypt",
+    "photo": "image/Egypt.gif",
+    "category": "metal"
+  }
+]

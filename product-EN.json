@@ -1,0 +1,242 @@
+[
+  {
+    "category": "car",
+    "brand": "Toyota",
+    "name": "Corolla",
+    "price": [15000, 20000, 25000],
+    "description": "6 Airbags and Touch screen with Apple CarPlay & Android Auto and Digital Dual-zone Air Conditioning and Wireless Charger Power and lumbar support & heater on driver seat and Digital Dashboard",
+    "model": 2024,
+    "image": [
+      "image/Toyota-car.avif",
+      "image/toyota-2.jpg",
+      "image/toyota-3.jpg",
+      "image/toyota-4.png"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "brand": "Honda",
+    "name": "Civic",
+    "price": [15000, 20000, 25000],
+    "description": "200-Horsepower Hybrid Powertrain and Google built-in , Bose Premium Sound System , sporty Civic Sedan now comes with the efficiency and excitement of hybrid performance.",
+    "model": 2025,
+    "image": [
+      "image/Honda-car.jpg",
+      "image/honda-2.jpg",
+      "image/honda-3.webp",
+      "image/honda-4.avif"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "brand": "Hyundai",
+    "name": "Elantra",
+    "price": [20000, 25000, 30000],
+    "description": "Auto A/C (Dual Zone) and 6SP Auto Transmission and 4.2 TFD LCD Cluster Screen  , Multi-Function Steering Wheel , Smart Trunk Open Feature , Daytime Running Lights LED",
+    "model": 2025,
+    "image": [
+      "image/Hundayi-car.webp",
+      "image/hyundai-2.webp",
+      "image/hyundai-3.webp",
+      "image/hyundai-4.webp"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "Luxury Apartment",
+    "brand": "El-Morshidi Group",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2021 in fifth statement",
+    "image": [
+      "image/real-estate1.jfif",
+      "image/real-estate-4.jpg",
+      "image/real-estate-7.jpg",
+      "image/real-estate-10.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "car",
+    "brand": "DSFK",
+    "name": "Eagle Pro car",
+    "price": [20000, 25000, 30000],
+    "description": "4 cylinder , 1.5 liter turbo , Power: 165 hp Torque 220 Nm , CVT automatic transmission Front wheel traction system , The car's height off the ground is 20 cm",
+    "model": 2022,
+    "image": [
+      "image/Eagle-car.jpg",
+      "image/Eagle-2.jfif",
+      "image/Eagle-3.jfif",
+      "image/Eagle-4.jfif"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "brand": "Renault",
+    "name": "Logan",
+    "price": [15000, 20000, 25000],
+    "description": "DRL with front LED, new front & rear bumpers as well as a new boot door with chrome embellisher. ABS – EBD , Driver & Passenger Airbags , 3-Point Rear Seat belts , Turn Signals Integrated in Side View Mirrors , Immobilizer (Anti-Theft System)",
+    "model": 2016,
+    "image": [
+      "image/Renault-2.jpg",
+      "image/Renault-car.jpg",
+      "image/Renault-3.jpg",
+      "image/Renault-4.webp"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "Luxury Apartment",
+    "brand": "El-Morshidi Group",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2018 in Obur City",
+    "image": [
+      "image/real-estate2.webp",
+      "image/real-estate-5.jpg",
+      "image/real-estate-8.jpg",
+      "image/real-estate-11.webp"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "real estate",
+    "name": "Luxury Apartment",
+    "brand": "El-Morshidi Group",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2018 in Masr El-Gdida",
+    "image": [
+      "image/real-estate3.jpg",
+      "image/real-estate-6.jpg",
+      "image/real-estate-9.webp",
+      "image/real-estate-12.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "real estate",
+    "name": "Luxury Apartment",
+    "brand": "El-Morshidi Group",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2019 in Nasr city",
+    "image": [
+      "image/real-estate-13.jpg",
+      "image/real-estate-14.webp",
+      "image/real-estate-15.jfif",
+      "image/real-estate-16.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "electronic",
+    "brand": "Samsung",
+    "name": "Screen FHD",
+    "price": [300, 500, 800],
+    "description": "Samsung 27-Inch IPS Gaming Monitor with Borderless Design, VGA and HDMI, 5ms GtG, 75hz with Game Mode, Supports AMD FreeSync, Local Warranty.",
+    "model": "---",
+    "image": [
+      "image/screen.jpg",
+      "image/screen-2.jpg",
+      "image/screen-3.jpg",
+      "image/screen-4.jpg"
+    ],
+    "Warranty": 2
+  },
+  {
+    "category": "electronic",
+    "brand": "Samsung",
+    "name": "Crystal TV UHD",
+    "price": [800, 1000, 1500],
+    "description": "Samsung 43 Inch 4K UHD Smart LED TV with Built-in Receiver and Remote Control",
+    "model": 2023,
+    "image": [
+      "image/TV.jpg",
+      "image/TV-2.jpg",
+      "image/TV-3.jpg",
+      "image/TV-4.jpg"
+    ],
+    "Warranty": 1
+  },
+  {
+    "category": "electronic",
+    "brand": "Samsung",
+    "name": "Washing Machine",
+    "price": [400, 800, 1200],
+    "description": "Samsung WW90T534DAN1AS Digital Inverter Front Loading Washing Machine With Wi-Fi (local warranty)",
+    "model": "---",
+    "image": [
+      "image/washing-2.jpg",
+      "image/Washing-1.jpg",
+      "image/washing-3.jpg",
+      "image/washing-4.jpg"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "electronic",
+    "brand": "Philips",
+    "name": "Air fryer",
+    "price": [150, 300, 500],
+    "description": "Philips Essential Air Fryer XL 1.2KG, 6.2L Capacity, Digital Screen,Black–International Warranty",
+    "model": "---",
+    "image": [
+      "image/Air-fryer-1.jpg",
+      "image/Air-fryer-2.jpg",
+      "image/Air-fryer-4.jpg",
+      "image/Air-fryer-3.jpg"
+    ],
+    "Warranty": 1
+  },
+  {
+    "category": "electronic",
+    "brand": "Hover",
+    "name": "Vacuum cleaner",
+    "price": [150, 300, 500],
+    "description": "Hoover Power 6 Advanced 3Litre Bagless Canister Vacuum Cleaner 2200W, Cyclonic Technology with HEPA Filter, Grey-Red, International warranty",
+    "model": "---",
+    "image": [
+      "image/vaccum-cleaner-3.jpg",
+      "image/vaccum-cleaner.jpg",
+      "image/vaccum-cleaner-2.jpg",
+      "image/vaccum-4.jpg"
+    ],
+    "Warranty": 1
+  },
+  {
+    "category": "car",
+    "brand": "Mitsubishi",
+    "name": "Shark",
+    "price": [10000, 15000, 20000],
+    "description": "DRL with front LED, new front & rear bumpers as well as a new boot door with chrome embellisher. ABS – EBD , Driver & Passenger Airbags , 3-Point Rear Seat belts , Turn Signals Integrated in Side View Mirrors , Immobilizer (Anti-Theft System)",
+    "model": 2018,
+    "image": [
+      "image/mits-1.jpg",
+      "image/mits-2.webp",
+      "image/mits-3.jpg",
+      "image/mits-4.jpg"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "Luxury Apartment",
+    "brand": "El-Morshidi Group",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2019 in 6th october",
+    "image": [
+      "image/real-estate-13.jpg",
+      "image/real-estate-14.webp",
+      "image/real-estate-15.jfif",
+      "image/real-estate-16.jpg"
+    ],
+    "Warranty": "---"
+  }
+]

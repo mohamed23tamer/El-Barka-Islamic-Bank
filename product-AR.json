@@ -1,0 +1,242 @@
+[
+  {
+    "category": "car",
+    "name": "كورولا",
+    "brand": "تويوتا",
+    "price": [15000, 20000, 25000],
+    "description": "6 وسائد هوائية وشاشة تعمل باللمس مع Apple CarPlay وAndroid Auto وتكييف هواء رقمي ثنائي المنطقة وشاحن لاسلكي، دعم للطاقة وأسفل الظهر وتدفئة على مقعد السائق ولوحة القيادة الرقمية",
+    "model": 2024,
+    "image": [
+      "image/Toyota-car.avif",
+      "image/toyota-2.jpg",
+      "image/toyota-3.jpg",
+      "image/toyota-4.png"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "name": "سيفيك",
+    "brand": "هوندا",
+    "price": [15000, 20000, 25000],
+    "description": "محرك بقوة 200 حصان ونظام صوت Bose Premium المدمج من Google، تأتي سيارة civic سيدان الرياضية الآن مع كفاءة وإثارة الأداء العالي.",
+    "model": 2025,
+    "image": [
+      "image/Honda-car.jpg",
+      "image/honda-2.jpg",
+      "image/honda-3.webp",
+      "image/honda-4.avif"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "brand": "هيونداي",
+    "name": "النترا",
+    "price": [20000, 25000, 30000],
+    "description": "مكيف هواء تلقائي (منطقة مزدوجة) وناقل حركة أوتوماتيكي 6SP وشاشة TFD LCD مقاس 4.2 بوصة، وعجلة قيادة متعددة الوظائف، وميزة فتح صندوق السيارة الذكي، وأضواء LED أثناء النهار",
+    "model": 2025,
+    "image": [
+      "image/Hundayi-car.webp",
+      "image/hyundai-2.webp",
+      "image/hyundai-3.webp",
+      "image/hyundai-4.webp"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "شقة فاخرة في التجمع الخامس",
+    "brand": "معمار المرشدي",
+    "price": [15000, 17500, 20000],
+    "description": "Standalone house with a yard, typically designed for one family. The home have 3 bedrooms, 2 bathrooms, a kitchen, and living areas.",
+    "model": "Built in 2021 in fifth statement",
+    "image": [
+      "image/real-estate1.jfif",
+      "image/real-estate-4.jpg",
+      "image/real-estate-7.jpg",
+      "image/real-estate-10.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "car",
+    "brand": "دي اس اف كه",
+    "name": "سيارة ايجل برو",
+    "price": [20000, 25000, 30000],
+    "description": "4 سلندر، 1.5 لتر تيربو، القوة: 165 حصان، عزم الدوران 220 نيوتن متر، ناقل حركة أوتوماتيكي CVT، نظام جر أمامي، ارتفاع السيارة عن الأرض 20 سم",
+    "model": 2022,
+    "image": [
+      "image/Eagle-car.jpg",
+      "image/Eagle-2.jfif",
+      "image/Eagle-3.jfif",
+      "image/Eagle-4.jfif"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "car",
+    "brand": "رينوا",
+    "name": "لوجن",
+    "price": [15000, 20000, 25000],
+    "description": "DRL مع مصابيح LED أمامية ومصدات أمامية وخلفية جديدة بالإضافة إلى باب صندوق الأمتعة الجديد المزود بزخارف من الكروم. ABS - EBD، وسائد هوائية للسائق والراكب، أحزمة أمان خلفية ثلاثية النقاط، إشارات انعطاف مدمجة في المرايا الجانبية، نظام منع الحركة (نظام مضاد للسرقة)",
+    "model": 2016,
+    "image": [
+      "image/Renault-2.jpg",
+      "image/Renault-car.jpg",
+      "image/Renault-3.jpg",
+      "image/Renault-4.webp"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "شقة فاخرة في مدينة العبور",
+    "brand": "معمار المرشدي",
+    "price": [15000, 17500, 20000],
+    "description": "منزل مستقل به ساحة، مصمم عادةً لعائلة واحدة. يحتوي المنزل على 3 غرف نوم و2 حمام ومطبخ ومنطقة معيشة.",
+    "model": "تم بناؤه عام 2018 بمدينة العبور",
+    "image": [
+      "image/real-estate2.webp",
+      "image/real-estate-5.jpg",
+      "image/real-estate-8.jpg",
+      "image/real-estate-11.webp"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "real estate",
+    "name": "شقة فاخرة في مصر الجديدة",
+    "brand": "معمار المرشدي",
+    "price": [15000, 17500, 20000],
+    "description": "منزل مستقل به ساحة، مصمم عادةً لعائلة واحدة. يحتوي المنزل على 3 غرف نوم و2 حمام ومطبخ ومنطقة معيشة.",
+    "model": "تم بناؤه عام 2018 بمصر الجديدة",
+    "image": [
+      "image/real-estate3.jpg",
+      "image/real-estate-6.jpg",
+      "image/real-estate-9.webp",
+      "image/real-estate-12.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "real estate",
+    "name": "شقة فاخرة في مدينة نصر",
+    "brand": "معمار المرشدي",
+    "price": [15000, 17500, 20000],
+    "description": "منزل مستقل به ساحة، مصمم عادةً لعائلة واحدة. يحتوي المنزل على 3 غرف نوم و2 حمام ومطبخ ومنطقة معيشة.",
+    "model": "تم بناؤه عام 2018 بمدينة نصر",
+    "image": [
+      "image/real-estate-13.jpg",
+      "image/real-estate-14.webp",
+      "image/real-estate-15.jfif",
+      "image/real-estate-16.jpg"
+    ],
+    "Warranty": "---"
+  },
+  {
+    "category": "electronic",
+    "brand": "سامسونج",
+    "name": "شاشة FHD",
+    "price": [300, 500, 800],
+    "description": "شاشة ألعاب سامسونج مقاس 27 بوصة بتقنية IPS مع تصميم بلا حدود، VGA وHDMI، 5 مللي ثانية GtG، 75 هرتز مع وضع الألعاب، تدعم AMD FreeSync، ضمان محلي.",
+    "model": "---",
+    "image": [
+      "image/screen.jpg",
+      "image/screen-2.jpg",
+      "image/screen-3.jpg",
+      "image/screen-4.jpg"
+    ],
+    "Warranty": 2
+  },
+  {
+    "category": "electronic",
+    "brand": "سامسونج",
+    "name": "تيليفزيون FHD",
+    "price": [800, 1000, 1500],
+    "description": "تلفزيون سامسونج 43 بوصة ذكي 4K UHD LED مزود بريسيفر داخلي وجهاز تحكم عن بعد",
+    "model": 2023,
+    "image": [
+      "image/TV.jpg",
+      "image/TV-2.jpg",
+      "image/TV-3.jpg",
+      "image/TV-4.jpg"
+    ],
+    "Warranty": 3
+  },
+  {
+    "category": "electronic",
+    "brand": "سامسونج",
+    "name": "غسالة",
+    "price": [400, 800, 1200],
+    "description": "غسالة سامسونج WW90T534DAN1AS تحميل أمامي بتقنية العاكس الرقمي مزودة بخدمة الواي فاي (ضمان محلي)",
+    "model": "---",
+    "image": [
+      "image/washing-2.jpg",
+      "image/Washing-1.jpg",
+      "image/washing-3.jpg",
+      "image/washing-4.jpg"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "electronic",
+    "brand": "فيليبس",
+    "name": "مقلاه هوائية",
+    "price": [150, 300, 500],
+    "description": "مقلاة فيليبس اسينشيال الهوائية XL، سعة 1.2 كجم، سعة 6.2 لتر، شاشة رقمية، ضمان دولي باللون الأسود",
+    "model": "---",
+    "image": [
+      "image/Air-fryer-1.jpg",
+      "image/Air-fryer-2.jpg",
+      "image/Air-fryer-4.jpg",
+      "image/Air-fryer-3.jpg"
+    ],
+    "Warranty": 1
+  },
+  {
+    "category": "electronic",
+    "brand": "هوفر",
+    "name": "مكنسة كهربائبة",
+    "price": [150, 300, 500],
+    "description": "مكنسة كهربائية هوفر باور 6 المتقدمة سعة 3 لتر بدون كيس 2200 وات، تقنية إعصارية مع فلتر هيبا، رمادي-أحمر، ضمان دولي",
+    "model": "---",
+    "image": [
+      "image/vaccum-cleaner-3.jpg",
+      "image/vaccum-cleaner.jpg",
+      "image/vaccum-cleaner-2.jpg",
+      "image/vaccum-4.jpg"
+    ],
+    "Warranty": 1
+  },
+  {
+    "category": "car",
+    "brand": "ماتسوبيشي",
+    "name": "القرش",
+    "price": [10000, 15000, 20000],
+    "description": "DRL مع مصابيح LED أمامية ومصدات أمامية وخلفية جديدة بالإضافة إلى باب صندوق الأمتعة الجديد المزود بزخارف من الكروم. ABS - EBD، وسائد هوائية للسائق والراكب، أحزمة أمان خلفية ثلاثية النقاط، إشارات انعطاف مدمجة في المرايا الجانبية، نظام منع الحركة (نظام مضاد للسرقة)",
+    "model": 2018,
+    "image": [
+      "image/mits-1.jpg",
+      "image/mits-2.webp",
+      "image/mits-3.jpg",
+      "image/mits-4.jpg"
+    ],
+    "Warranty": 5
+  },
+  {
+    "category": "real estate",
+    "name": "شقة فاخرة في السادس من اكتوبر",
+    "brand": "معمار المرشدي",
+    "price": [15000, 17500, 20000],
+    "description": "منزل مستقل به ساحة، مصمم عادةً لعائلة واحدة. يحتوي المنزل على 3 غرف نوم و2 حمام ومطبخ ومنطقة معيشة.",
+    "model": "تم بناؤه عام 2018 بمدينة نصر",
+    "image": [
+      "image/real-estate-13.jpg",
+      "image/real-estate-14.webp",
+      "image/real-estate-15.jfif",
+      "image/real-estate-16.jpg"
+    ],
+    "Warranty": "---"
+  }
+]

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="shortcut icon" type="image/png" href="image/favicon.png" />
+    <!-- Web Font -->
+    <link rel="stylesheet" href="all.min.css" />
+    <!-- Normalization -->
+    <link rel="stylesheet" href="Normal.css" />
+    <!-- Font -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Bank EL BarKa</title>
+  </head>
+  <body>
+    <!-- header of Wallet page -->
+    <header>
+      <div class="main-2 flex-between">
+        <div class="language flex">
+          <p>
+            Log out
+            <a href="index.html"><i class="fa-solid fa-power-off"></i></a>
+          </p>
+          <div class="left">
+            <i class="fa-solid fa-earth-americas"></i>
+            <ul class="hidden">
+              <li><a href="main-AR.html">Arabic</a></li>
+              <li><a href="#">English</a></li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <p>Welcome <span>Mohamed Tamer</span></p>
+        </div>
+      </div>
+    </header>
+    <!-- main content of Wallet page -->
+    <main class="container">
+      <!-- sidebar -->
+      <aside class="sidebar">
+        <div>
+          <img src="image/logo.png" alt="" />
+        </div>
+        <ul>
+          <a href="#">
+            <li>
+              <i class="fa-solid fa-wallet"></i>
+              <span>Wallet</span>
+            </li>
+          </a>
+          <a href="installment-EN.html">
+            <li>
+              <i class="fa-solid fa-shop"></i>
+              <span>Installment</span>
+            </li>
+          </a>
+          <a href="Currency-EN.html">
+            <li>
+              <i class="fa-solid fa-coins"></i>
+              <span>Currencies</span>
+            </li>
+          </a>
+        </ul>
+      </aside>
+      <!-- main page -->
+      <div class="main-page">
+        <div class="t-logo">
+          <img src="image/logo_transparent.png" alt="" />
+        </div>
+        <div class="head flex-between">
+          <div>
+            <h1>Current Balance</h1>
+            <p>As of 05/03/2024</p>
+          </div>
+          <p class="amount">2100 L.E</p>
+        </div>
+        <div class="cont-main">
+          <div class="transform"></div>
+          <div class="operation">
+            <div class="TF-op flex-between yellow-color">
+              <form action="">
+                <h3>Transfer Money</h3>
+                <div>
+                  <div>
+                    <input type="text" class="transfer" />
+                    <p class="transfer-message">Transfer to</p>
+                  </div>
+                  <div>
+                    <input type="number" class="transfer-amount" />
+                    <p class="transfer-amount-message">Amount</p>
+                  </div>
+                  <i class="fa-solid fa-arrow-right-long transfer-button"></i>
+                </div>
+              </form>
+            </div>
+            <div class="TF-op flex-between green-color">
+              <form action="">
+                <h3>Request Loan</h3>
+                <div>
+                  <div>
+                    <input type="number" class="loan-amount" />
+                    <p class="loan-message">Amount</p>
+                  </div>
+                  <i class="fa-solid fa-arrow-right-long loan-button"></i>
+                </div>
+              </form>
+            </div>
+            <div class="TF-op flex-between flex-between red-color">
+              <form action="">
+                <h3>Close Account</h3>
+                <div>
+                  <div>
+                    <input type="text" class="confirm-user" />
+                    <p class="message-user">Confirm user</p>
+                  </div>
+                  <div>
+                    <input type="text" class="confirm-pin" />
+                    <p class="message-pin">Confirm pin</p>
+                  </div>
+                  <i class="fa-solid fa-arrow-right-long close-button"></i>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <!-- footer of Wallet page -->
+        <div class="footer flex-between">
+          <div class="income flex-between">
+            <p>In <span>3100</span></p>
+            <p>Out <span>1000</span></p>
+            <p>ins.<span>1000</span></p>
+          </div>
+          <div class="sort">
+            <p>sorting <i class="fa-solid fa-arrow-down-long sort-btn"></i></p>
+          </div>
+          <div class="time">
+            <p>You will be logged out in 05:00</p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!-- JS file -->
+    <script src="script.js"></script>
+  </body>
+</html>

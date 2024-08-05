@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="shortcut icon" type="image/png" href="image/favicon.png" />
+    <!-- Web Font -->
+    <link rel="stylesheet" href="all.min.css" />
+    <!-- Normalization -->
+    <link rel="stylesheet" href="Normal.css" />
+    <!-- Font -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="style.css" />
+    <title>بنك البركة</title>
+  </head>
+  <body>
+    <!-- header of installment page -->
+    <header>
+      <div class="main-2 flex-between">
+        <div class="language flex">
+          <p>
+            تسجيل الخروج
+            <a href="indexAR.html">
+              <i class="fa-solid fa-power-off"></i>
+            </a>
+          </p>
+          <div class="left">
+            <i class="fa-solid fa-earth-americas"></i>
+            <ul class="hidden">
+              <li><a href="#">العربية</a></li>
+              <li><a href="installment-EN.html">الانجليزية</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="search">
+          <form action="">
+            <input type="search" placeholder="ابحث بي كلمة" />
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </form>
+        </div>
+      </div>
+    </header>
+    <!-- main content of installment page -->
+    <main class="container">
+      <!-- sidebar -->
+      <aside class="sidebar">
+        <div>
+          <img src="image/logo.png" alt="" />
+        </div>
+        <ul>
+          <a href="main-AR.html">
+            <li>
+              <i class="fa-solid fa-wallet"></i>
+              <span>محفظتك</span>
+            </li>
+          </a>
+          <a href="#">
+            <li>
+              <i class="fa-solid fa-shop"></i>
+              <span>تقسيط</span>
+            </li>
+          </a>
+          <a href="Currency-AR.html">
+            <li>
+              <i class="fa-solid fa-coins"></i>
+              <span>العملات</span>
+            </li>
+          </a>
+        </ul>
+      </aside>
+      <!-- main content -->
+      <div class="main-page">
+        <div class="t-logo">
+          <img src="image/logo_transparent.png" alt="" />
+        </div>
+        <div class="category">
+          <p class="all-category">الكل</p>
+          <p class="car-category">سيارات</p>
+          <p class="electronic-category">اجهزة الكترونية</p>
+          <p class="realEstate-category">عقارات</p>
+        </div>
+        <div class="layout"></div>
+        <div class="layout-info">
+          <i class="fa-solid fa-circle-xmark close-layout"></i>
+          <div class="image-box">
+            <img src="" class="main-photo" />
+            <div class="flex-photo flex">
+              <img src="" class="photo" />
+              <img src="" class="photo" />
+              <img src="" class="photo" />
+              <img src="" class="photo" />
+            </div>
+          </div>
+          <div class="product-info">
+            <p>الاسم : <span class="name-value">Mohamed</span></p>
+            <p>الضمان : <span class="warranty-value">2</span></p>
+            <p>الوصف : <span class="description-value">Good product</span></p>
+            <p>الموديل : <span class="model-value">2008</span></p>
+            <p>طرق تقسيط مختلفة :</p>
+            <div class="select">
+              <input type="radio" id="1" name="installment" />
+              <label for="1"><span>1000</span>ج.م شهريا لمدة ٣سنين</label>
+            </div>
+            <div class="select">
+              <input type="radio" id="2" name="installment" />
+              <label for="2"><span>500</span>ج.م شهريا لمدة سنتين</label>
+            </div>
+            <div class="select">
+              <input type="radio" id="3" name="installment" />
+              <label for="3"><span>250</span>ج.م شهريا لمدة سنة و نصف</label>
+            </div>
+            <p class="error">يجب عليك اختيار طريقة تقسيط</p>
+            <button class="purchase">شراء</button>
+          </div>
+        </div>
+        <div class="order-Loan-msg">
+          <p>رصيدك الحالي غير كافي , يمكنك اخذ قرض من بنك البركة الاسلامي ؟</p>
+          <div class="flex-between">
+            <button class="cancel">الغاء</button>
+            <button class="confirm">تاكيد</button>
+          </div>
+        </div>
+        <div class="list-card"></div>
+      </div>
+    </main>
+    <!-- JS file -->
+    <script src="script.js"></script>
+  </body>
+</html>

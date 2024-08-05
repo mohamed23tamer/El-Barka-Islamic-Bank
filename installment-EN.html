@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="shortcut icon" type="image/png" href="image/favicon.png" />
+    <!-- Web Font -->
+    <link rel="stylesheet" href="all.min.css" />
+    <!-- Normalization -->
+    <link rel="stylesheet" href="Normal.css" />
+    <!-- Font -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS Style -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Bank EL Barka</title>
+  </head>
+  <body>
+    <!-- header of installment page -->
+    <header>
+      <div class="main-2 flex-between">
+        <div class="language flex">
+          <p>
+            Log out
+            <a href="index.html"><i class="fa-solid fa-power-off"></i></a>
+          </p>
+          <div class="left">
+            <i class="fa-solid fa-earth-americas"></i>
+            <ul class="hidden">
+              <li><a href="installment-AR.html">Arabic</a></li>
+              <li><a href="#">English</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="search">
+          <form>
+            <input type="search" placeholder="Search by word" />
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </form>
+        </div>
+      </div>
+    </header>
+    <!-- main content of installment page -->
+    <main class="container">
+      <!-- sidebar -->
+      <aside class="sidebar">
+        <div>
+          <img src="image/logo.png" alt="" />
+        </div>
+        <ul>
+          <a href="main-EN.html">
+            <li>
+              <i class="fa-solid fa-wallet"></i>
+              <span>Wallet</span>
+            </li>
+          </a>
+          <a href="#">
+            <li>
+              <i class="fa-solid fa-shop"></i>
+              <span>Installment</span>
+            </li>
+          </a>
+          <a href="Currency-EN.html">
+            <li>
+              <i class="fa-solid fa-coins"></i>
+              <span>Currencies</span>
+            </li>
+          </a>
+        </ul>
+      </aside>
+      <!-- main content -->
+      <div class="main-page">
+        <div class="t-logo">
+          <img src="image/logo_transparent.png" alt="" />
+        </div>
+        <div class="category">
+          <p class="all-category">All</p>
+          <p class="car-category">Car's</p>
+          <p class="electronic-category">Electronic's</p>
+          <p class="realEstate-category">Real Estate's</p>
+        </div>
+        <div class="layout"></div>
+        <div class="layout-info">
+                <i class="fa-solid fa-circle-xmark close-layout"></i>
+                <div class="image-box">
+                  <img src='' class="main-photo"/>
+                  <div class="flex-photo flex">
+                    <img src="" class="photo"/>
+                    <img src="" class="photo"/>
+                    <img src="" class="photo"/>
+                    <img src="" class="photo"/>
+                  </div>
+                </div>
+              <div class="product-info">
+                <p>Name : <span class="name-value">Mohamed</span></p>
+                <p>Warranty : <span class="warranty-value">2</span></p>
+                <p>Description : <span class="description-value">Good product</span></p>
+                <p>Model : <span class="model-value">2008</span></p>
+                <p>Different installment way :</p>
+                <div class="select">
+                  <input type="radio" id="1" name="installment"/>
+                  <label for="1"><span>1000</span>L.E for 3 years</label>
+                </div>
+                <div class="select">
+                  <input type="radio" id="2" name="installment"/>
+                  <label for="2"><span>500</span>L.E for 2 years</label>
+                </div>
+                <div class="select">
+                  <input type="radio" id="3" name="installment"/>
+                  <label for="3"><span>250</span>L.E for 1.5 years</label>
+                </div>
+                <p class="error">You should select installment way</p>
+                <button class="purchase">Purchase</button>
+              </div>
+            </div>
+            <div class="order-Loan-msg">
+              <p>Your current amount not enough, You can take loan from El-barka islamic bank ?</p>
+              <div class="flex-between">
+                <button class="cancel">Cancel</button>
+                <button class="confirm">Confirm</button>
+              </div>
+            </div>
+        <div class="list-card"></div> 
+        </div>
+      </div>
+    </main>
+    <!-- JS file -->
+    <script src="script.js"></script>
+  </body>
+</html>
